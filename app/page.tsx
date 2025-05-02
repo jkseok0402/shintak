@@ -14,7 +14,7 @@ export default function HomePage() {
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center">
-      <div className="text-xl mb-8">흥탁 리그관리 페이지로 이동 중...</div>
+      <div className="text-xl mb-8">스마트탁구클럽 게임관리 페이지로 이동 중...</div>
       
       <div className="space-y-4">
         <Link href="/dashboard" className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600">
