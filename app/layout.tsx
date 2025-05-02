@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import '../styles/globals.css'
 
 export const metadata: Metadata = {
-  title: '흥덕탁구단',
-  description: '흥덕탁구단 리그관리',
+  title: '스마트탁구클럽',
+  description: '스마트탁구클럽 게임관리',
 }
 
 export default function RootLayout({
